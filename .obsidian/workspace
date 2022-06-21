@@ -1,0 +1,87 @@
+{
+  "main": {
+    "id": "3f248f5f417b3034",
+    "type": "split",
+    "children": [
+      {
+        "id": "47787c00f1f41fee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "diary/2022/2022年6月/2022年6月20日.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb836f3bcc512962",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a696524bca44c85c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "18d6e7ecc8eae7ec",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "64f39d5b22e16065",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7dd16be5e57fc54d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "diary/2022/2022年6月/2022年6月20日.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "47787c00f1f41fee",
+  "lastOpenFiles": [
+    "diary/2022/2022年6月/2022年6月20日.md",
+    "diary/2022/2022flag读书学习计划.md",
+    "plan/2022年.md",
+    "diary/记账/2022记账.md",
+    "diary/记账/余额记录.md",
+    "diary/记账/2021年12月15日.md",
+    "diary/2022/2022年6月/2022年6月19日.md",
+    "think/书影音阅读笔记/共产主义运动历史上的国际组织.md",
+    "diary/2022/2022年6月/2022年6月18日.md",
+    "diary/2022/2022年6月/2022年6月17日.md"
+  ]
+}

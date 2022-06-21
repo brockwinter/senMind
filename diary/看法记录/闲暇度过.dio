@@ -1,0 +1,127 @@
+<mxfile host="65bd71144e">
+    <diagram id="7-255mw0JOYVabdmUZSd" name="第 1 页">
+        <mxGraphModel dx="1041" dy="567" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="19" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;fontSize=14;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="有空了开心一下" style="ellipse;whiteSpace=wrap;html=1;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="70" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;fontSize=14;" parent="1" source="3" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;fontSize=14;" parent="1" source="3" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="想睡觉吗?" style="rhombus;whiteSpace=wrap;html=1;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="65" y="180" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="不带手机去睡觉吧" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="280" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;fontSize=14;" parent="1" source="6" target="14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;fontSize=14;" parent="1" source="6" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="想出去玩吗?" style="rhombus;whiteSpace=wrap;html=1;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="180" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;fontSize=14;" parent="1" source="7" target="16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;fontSize=14;" parent="1" source="7" target="17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="想看视频类的吗?" style="rhombus;whiteSpace=wrap;html=1;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="860" y="180" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;fontSize=14;" parent="1" source="8" target="11" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;fontSize=14;" parent="1" source="8" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="想思考吗?" style="rhombus;whiteSpace=wrap;html=1;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="285" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;fontSize=14;" parent="1" source="9" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;fontSize=14;" parent="1" source="9" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="想看书吗?" style="rhombus;whiteSpace=wrap;html=1;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="180" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;fontSize=14;" parent="1" source="10" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;fontSize=14;" parent="1" source="10" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="想运动吗?" style="rhombus;whiteSpace=wrap;html=1;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="180" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="看明朝那些事吧" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="390" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="以自己的疲惫状态为准做广播体操" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="475" y="280" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="戴着帽子口罩出去走走吧, 晚上就不出门了" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="275" y="280" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="去写日记吧" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="875" y="280" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="看电影动漫吧" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="1060" y="175" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="看理论书吧" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="760" y="390" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="想" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="135" y="240" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="不想" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="215" y="180" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="不想" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="350" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="不想" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="610" y="180" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="不想" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="180" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="想" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="240" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="想" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="1010" y="180" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="想" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="740" y="240" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="想" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="780" y="350" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="想" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="240" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="不想" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="930" y="240" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="不想" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="180" width="40" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
